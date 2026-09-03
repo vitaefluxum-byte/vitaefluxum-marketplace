@@ -1,0 +1,6 @@
+interface:
+  display_name: "Skill VitaeFluxum"
+  short_description: "Personajes, storyboards y vídeo coherentes"
+  default_prompt: "Usa $vitaefluxum para crear un personaje, storyboard o prompt de vídeo coherente."
+policy:
+  allow_implicit_invocation: true
