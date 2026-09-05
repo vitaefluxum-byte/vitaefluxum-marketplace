@@ -2,6 +2,8 @@
 
 Utiliza este flujo cuando el usuario quiera convertir un guion, una escena o una secuencia escrita en referencias visuales, storyboards o fotogramas para vídeo.
 
+Si el usuario está desarrollando un proyecto completo, sigue también [flujo-proyecto.md](flujo-proyecto.md) para anunciar cada apartado y guiarlo en el orden correcto. No saltes directamente del guion al storyboard: primero consolida los blueprints necesarios de personajes y objetos, y después los escenarios.
+
 ## Principio de trabajo
 
 No generar una colección de imágenes aisladas. Extraer primero la continuidad del guion y construir un sistema de referencias reutilizables.

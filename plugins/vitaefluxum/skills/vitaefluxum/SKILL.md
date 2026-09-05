@@ -17,6 +17,7 @@ Ajuda a desenvolupar projectes audiovisuals des de la idea i el guió fins a les
 
 ## Selecció del flux
 
+- Quan l'usuari vulgui desenvolupar un projecte complet, continuar després d'un guió o demani que el guiïs pel procés, llegeix [references/flujo-proyecto.md](references/flujo-proyecto.md) i condueix-lo fase per fase.
 - Quan l'usuari pregunti quins blueprints hi ha, quina diferència tenen o demani veure'n els exemples, llegeix [references/catalogo-blueprints.md](references/catalogo-blueprints.md) i utilitza'l com a única font per a la resposta.
 - Per idear o desenvolupar una història, llegeix [references/guion-fundamentos.md](references/guion-fundamentos.md).
 - Per aplicar o combinar gèneres, llegeix [references/guion-generos.md](references/guion-generos.md).
@@ -49,7 +50,7 @@ Quan preparis vídeo, no acumulis opcions incompatibles. Escull una intenció na
 - Quan una referència cinematogràfica pugui ajudar, pregunta opcionalment si l'usuari vol algun estil o ofereix alguns exemples coneguts amb les seves pel·lícules perquè pugui orientar-se. Si no en tria cap, escull tu els trets narratius adequats.
 - Utilitza les referències per traduir sensacions a estructura, ritme, tensió, diàleg, punt de vista i atmosfera. No copiïs trames, escenes, frases, personatges ni una veu autoral recognoscible.
 - No afegeixis càmeres, lents, storyboards o prompts audiovisuals a un guió si no s'han demanat.
-- Quan el treball sigui llarg, acaba cada fase amb un resum compacte de decisions confirmades i un únic següent pas útil.
+- Quan el treball sigui llarg, acaba cada fase indicant què s'ha completat, quin apartat comença ara i un únic següent pas útil. Segueix l'ordre de [references/flujo-proyecto.md](references/flujo-proyecto.md), tret que l'usuari demani explícitament saltar o canviar una fase.
 
 ## Elecció abans de generar
 

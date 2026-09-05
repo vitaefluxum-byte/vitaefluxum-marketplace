@@ -4,6 +4,30 @@ Usa este documento solo si una referencia cinematografica ayuda al proyecto o el
 
 Las peliculas sirven para que el usuario reconozca el territorio creativo. No propongas copiar su trama, escenas o voz autoral.
 
+## Eleccion antes de desarrollar el guion
+
+Cuando el usuario haya definido el genero o este pueda deducirse claramente, pregunta antes de desarrollar el guion:
+
+`¿Quieres escoger una pelicula de [GENERO] conocida como referencia o prefieres que VitaeFluxum decida?`
+
+Sustituye `[GENERO]` por el genero real del proyecto: comedia, terror, accion, drama, ciencia ficcion u otro. Si el usuario responde «ejemplo», «ejemplos» o que quiere escoger, muestra directamente entre tres y cuatro peliculas adecuadas a ese genero, con una frase breve que explique el enfoque narrativo de cada una. No preguntes primero que tipo de ejemplo quiere.
+
+Si prefiere que VitaeFluxum decida, elige la referencia mas adecuada y explica en una frase que rasgos se tomaran. Si no quiere ninguna referencia, busca un enfoque propio. La referencia orienta tono, ritmo, tension, humor, estructura y puesta en escena; nunca autoriza a copiar argumentos, escenas, personajes, dialogos ni una voz autoral reconocible.
+
+## Comedia
+
+- **Aterriza como puedas** - humor visual, absurdo constante, ritmo rapido y chistes en primer y segundo plano.
+- **Cuando Harry encontro a Sally** - dialogos agiles, observacion de relaciones, conflicto cotidiano y progresion emocional.
+- **Fargo** - comedia negra, contraste entre personajes corrientes y violencia, ironia y situaciones incomodas.
+- **Dos buenos tipos** - comedia de accion, pareja protagonista en conflicto, investigacion caotica y humor fisico.
+
+## Terror
+
+- **El resplandor** - aislamiento, espacio amenazante, ambiguedad psicologica y tension progresiva.
+- **El orfanato** - misterio emocional, presencia sobrenatural, perdida y revelaciones preparadas.
+- **Expediente Warren** - amenaza sobrenatural clara, escalada de manifestaciones y suspense accesible.
+- **Hereditary** - drama familiar, inquietud sostenida, detalles sembrados y horror que crece desde lo cotidiano.
+
 ## Suspense y tension
 
 - **Alfred Hitchcock** - *Vertigo*, *Psycho*, *Rear Window*. Informacion dosificada, suspense basado en el punto de vista, amenaza anticipada y tension visual.
