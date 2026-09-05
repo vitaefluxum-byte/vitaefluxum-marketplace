@@ -60,18 +60,7 @@ En particular, un blueprint de vestuario creado a partir de un personaje existen
 
 ## EJEMPLOS VISUALES DISPONIBLES
 
-Estos archivos ya forman parte de VitaeFluxum y pueden mostrarse cuando el usuario quiera comprender la diferencia entre las opciones. Mostrarlos no implica generar una imagen nueva.
-
-- **1A — Blueprint de rostro:** hombros y cabeza en cuatro vistas limpias sobre fondo gris claro. Archivo público: [ejemplo de rostro](https://raw.githubusercontent.com/vitaefluxum-byte/vitaefluxum-marketplace/main/plugins/vitaefluxum/assets/exemple-blueprint-rostre-1920x1080.png).
-- **1B — Blueprint de cuerpo y vestuario:** cuerpo sin cabeza en varias vistas, útil para fijar estructura corporal, piel visible, tatuajes, ropa, calzado y materiales. Archivo público: [ejemplo de cuerpo y vestuario](https://raw.githubusercontent.com/vitaefluxum-byte/vitaefluxum-marketplace/main/plugins/vitaefluxum/assets/exemple-blueprint-cos-vestuari-1920x1080.png).
-- **2 — Blueprint de personaje completo:** identidad, cuerpo y vestuario juntos en una hoja de continuidad. Archivo público: [ejemplo de personaje completo](https://raw.githubusercontent.com/vitaefluxum-byte/vitaefluxum-marketplace/main/plugins/vitaefluxum/assets/exemple-blueprint-personatge-complet-1920x1080.png).
-- **3 — Ficha maestra de personaje:** rostro ampliado en cuatro vistas y cuerpo/vestuario desde varios ángulos. Archivo público: [ejemplo de ficha maestra](https://raw.githubusercontent.com/vitaefluxum-byte/vitaefluxum-marketplace/main/plugins/vitaefluxum/assets/exemple-fitxa-mestra-personatge-1920x1080.png).
-
-Presenta siempre estas cuatro opciones con esta numeración exacta. Explica que **1A y 1B son referencias complementarias** que pueden utilizarse juntas: 1A fija la identidad facial y 1B fija el cuerpo, la piel visible, las marcas y el vestuario.
-
-Cuando el usuario pida ver un ejemplo, muéstralo mediante su URL pública completa en Markdown de imagen. No uses rutas relativas del complemento, porque la interfaz del chat puede no resolverlas.
-
-No generes automáticamente ninguno de estos blueprints al enseñarlos. Después de mostrarlos, pregunta cuál necesita y si quiere solo el prompt, solo la imagen o ambos.
+Los nombres, la numeración, las explicaciones y las imágenes de ejemplo se mantienen exclusivamente en [catalogo-blueprints.md](catalogo-blueprints.md). Cuando el usuario pida verlos o compararlos, utiliza ese documento y no reconstruyas el catálogo desde este archivo.
 
 ---
 

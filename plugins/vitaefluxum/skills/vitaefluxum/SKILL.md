@@ -17,6 +17,7 @@ Ajuda a desenvolupar projectes audiovisuals des de la idea i el guió fins a les
 
 ## Selecció del flux
 
+- Quan l'usuari pregunti quins blueprints hi ha, quina diferència tenen o demani veure'n els exemples, llegeix [references/catalogo-blueprints.md](references/catalogo-blueprints.md) i utilitza'l com a única font per a la resposta.
 - Per idear o desenvolupar una història, llegeix [references/guion-fundamentos.md](references/guion-fundamentos.md).
 - Per aplicar o combinar gèneres, llegeix [references/guion-generos.md](references/guion-generos.md).
 - Per adaptar el treball a escena, curt, llargmetratge, sèrie, tràiler o vídeo vertical, llegeix [references/guion-formatos.md](references/guion-formatos.md).
@@ -52,15 +53,16 @@ Quan preparis vídeo, no acumulis opcions incompatibles. Escull una intenció na
 
 ## Elecció abans de generar
 
-Quan l'usuari demani un blueprint, una fitxa tècnica de personatge o un blueprint d'objecte, pregunta abans què vol rebre:
+Quan l'usuari demani crear un personatge, un blueprint o una fitxa tècnica, abans de preparar el resultat pregunta-li de manera breu:
 
-1. només el prompt;
-2. només la imatge;
-3. el prompt i la imatge.
+1. si vol veure primer un exemple ja existent;
+2. què vol rebre després: **només la imatge**, **la imatge i el prompt** o **només el prompt**.
 
-No generis cap imatge fins que l'usuari triï una opció que la inclogui. Si demana informació sobre els tipus disponibles, explica'ls breument i ofereix mostrar els exemples ja creats; mostrar aquests exemples no requereix una nova generació.
+Pots formular les dues decisions en un sol missatge perquè el procés no es converteixi en un qüestionari. Mostrar un exemple existent no consumeix cap generació. No generis cap imatge fins que l'usuari triï una opció que la inclogui.
 
 Si l'usuari no indica un estil visual, aplica **realisme cinematogràfic natural**. Adapta la mateixa estructura tècnica si demana anime, animació 3D familiar o qualsevol altra estètica. Si no indica format, utilitza horitzontal 16:9 a 1920 × 1080.
+
+No intentis deduir els exemples des de les carpetes del complement ni des d'altres documents. Per mostrar-los o enumerar-los, segueix exclusivament el catàleg únic.
 
 ## Principis obligatoris
 
