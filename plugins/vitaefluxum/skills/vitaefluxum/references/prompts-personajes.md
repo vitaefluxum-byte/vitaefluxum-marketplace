@@ -62,10 +62,12 @@ En particular, un blueprint de vestuario creado a partir de un personaje existen
 
 Estos archivos ya forman parte de VitaeFluxum y pueden mostrarse cuando el usuario quiera comprender la diferencia entre las opciones. Mostrarlos no implica generar una imagen nueva.
 
-- **Blueprint de rostro:** hombros y cabeza en cuatro vistas limpias sobre fondo gris claro. Archivo: [ejemplo de rostro](../../../assets/exemple-blueprint-rostre-1920x1080.png).
-- **Blueprint de cuerpo y vestuario:** cuerpo sin cabeza en varias vistas, útil para fijar estructura corporal, piel visible, tatuajes, ropa, calzado y materiales. Archivo: [ejemplo de cuerpo y vestuario](../../../assets/exemple-blueprint-cos-vestuari-1920x1080.png).
-- **Blueprint de personaje completo:** identidad, cuerpo y vestuario juntos en una hoja de continuidad. Archivo: [ejemplo de personaje completo](../../../assets/exemple-blueprint-personatge-complet-1920x1080.png).
-- **Ficha maestra de personaje:** rostro ampliado en cuatro vistas y cuerpo/vestuario desde varios ángulos. Archivo: [ejemplo de ficha maestra](../../../assets/exemple-fitxa-mestra-personatge-1920x1080.png).
+- **Blueprint de rostro:** hombros y cabeza en cuatro vistas limpias sobre fondo gris claro. Archivo público: [ejemplo de rostro](https://raw.githubusercontent.com/vitaefluxum-byte/vitaefluxum-marketplace/main/plugins/vitaefluxum/assets/exemple-blueprint-rostre-1920x1080.png).
+- **Blueprint de cuerpo y vestuario:** cuerpo sin cabeza en varias vistas, útil para fijar estructura corporal, piel visible, tatuajes, ropa, calzado y materiales. Archivo público: [ejemplo de cuerpo y vestuario](https://raw.githubusercontent.com/vitaefluxum-byte/vitaefluxum-marketplace/main/plugins/vitaefluxum/assets/exemple-blueprint-cos-vestuari-1920x1080.png).
+- **Blueprint de personaje completo:** identidad, cuerpo y vestuario juntos en una hoja de continuidad. Archivo público: [ejemplo de personaje completo](https://raw.githubusercontent.com/vitaefluxum-byte/vitaefluxum-marketplace/main/plugins/vitaefluxum/assets/exemple-blueprint-personatge-complet-1920x1080.png).
+- **Ficha maestra de personaje:** rostro ampliado en cuatro vistas y cuerpo/vestuario desde varios ángulos. Archivo público: [ejemplo de ficha maestra](https://raw.githubusercontent.com/vitaefluxum-byte/vitaefluxum-marketplace/main/plugins/vitaefluxum/assets/exemple-fitxa-mestra-personatge-1920x1080.png).
+
+Cuando el usuario pida ver un ejemplo, muéstralo mediante su URL pública completa en Markdown de imagen. No uses rutas relativas del complemento, porque la interfaz del chat puede no resolverlas.
 
 No generes automáticamente ninguno de estos blueprints al enseñarlos. Después de mostrarlos, pregunta cuál necesita y si quiere solo el prompt, solo la imagen o ambos.
 

@@ -8,9 +8,11 @@ No limites las opciones a una lista cerrada. Armas, herramientas, joyas, disposi
 
 Cuando el usuario quiera comprender las posibilidades o pida ejemplos, puedes mostrar una o varias de estas imágenes ya creadas. Mostrarlas no implica generar una imagen nueva:
 
-- [objeto pequeño: espada](../../../assets/exemple-blueprint-objecte-espasa-1920x1080.png);
-- [mueble: escritorio](../../../assets/exemple-blueprint-objecte-moble-1920x1080.png);
-- [vehículo: coche](../../../assets/exemple-blueprint-objecte-cotxe-1920x1080.png).
+- [objeto pequeño: espada](https://raw.githubusercontent.com/vitaefluxum-byte/vitaefluxum-marketplace/main/plugins/vitaefluxum/assets/exemple-blueprint-objecte-espasa-1920x1080.png);
+- [mueble: escritorio](https://raw.githubusercontent.com/vitaefluxum-byte/vitaefluxum-marketplace/main/plugins/vitaefluxum/assets/exemple-blueprint-objecte-moble-1920x1080.png);
+- [vehículo: coche](https://raw.githubusercontent.com/vitaefluxum-byte/vitaefluxum-marketplace/main/plugins/vitaefluxum/assets/exemple-blueprint-objecte-cotxe-1920x1080.png).
+
+Cuando el usuario pida ver un ejemplo, muéstralo mediante su URL pública completa en Markdown de imagen. No uses rutas relativas del complemento, porque la interfaz del chat puede no resolverlas.
 
 No cargues ni muestres las tres por sistema. Explica brevemente las categorías y pregunta si quiere ver los ejemplos, o muestra únicamente el que corresponda a su petición.
 
