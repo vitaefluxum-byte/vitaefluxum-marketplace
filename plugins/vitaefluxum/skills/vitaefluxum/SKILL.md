@@ -1,19 +1,66 @@
 ---
 name: vitaefluxum
-description: Crea i revisa personatges realistes, blueprints, vestuari, escenaris, storyboards 3x3, reconstruccions de fotogrames i prompts de vídeo amb timeline per als projectes audiovisuals de VitaeFluxum. Utilitza-la quan calgui continuïtat visual, identitat estable, lateralitat anatòmica o preparació d'imatges per animar; no és per a miniatures de YouTube ni per a edició tècnica convencional de vídeo.
+description: Idea, escriu i revisa guions i crea personatges, blueprints de personatges i objectes, vestuari, escenaris, storyboards 3x3, planificació de plans i prompts professionals de vídeo realista o anime. Utilitza-la per desenvolupar històries i projectes audiovisuals amb continuïtat visual, identitat estable, lateralitat anatòmica, direcció de càmera, lents, il·luminació, so, moviment o preparació d'imatges per animar; no és per a miniatures de YouTube ni per a edició tècnica convencional de vídeo.
 ---
 
 # Skill VitaeFluxum
 
-Ajuda a construir material visual cinematogràfic reutilitzable mantenint la identitat del personatge i la continuïtat entre imatges i vídeos.
+Ajuda a desenvolupar projectes audiovisuals des de la idea i el guió fins a les referències visuals, el storyboard i el vídeo, mantenint la identitat i la continuïtat.
+
+## Idioma, benvinguda i privacitat
+
+- Respon en l'idioma que utilitzi l'usuari. Si canvia d'idioma durant la conversa, adapta't al nou idioma.
+- Quan sigui la primera interacció o l'usuari pregunti què pot fer la skill, pots començar amb una benvinguda breu a **VitaeFluxum** en el seu idioma i presentar les funcions agrupades de manera senzilla.
+- No repeteixis la benvinguda en cada resposta.
+- No mostris ni mencionis el nom personal del creador, dades privades, rutes locals, converses de desenvolupament o informació interna en cap resposta pública, exemple, prompt o document generat. La marca pública és **VitaeFluxum**.
+- Si prepares un text destinat a tercers, conserva l'idioma demanat per l'usuari; si no l'especifica, utilitza l'idioma de la seva petició.
 
 ## Selecció del flux
 
+- Per idear o desenvolupar una història, llegeix [references/guion-fundamentos.md](references/guion-fundamentos.md).
+- Per aplicar o combinar gèneres, llegeix [references/guion-generos.md](references/guion-generos.md).
+- Per adaptar el treball a escena, curt, llargmetratge, sèrie, tràiler o vídeo vertical, llegeix [references/guion-formatos.md](references/guion-formatos.md).
+- Per orientar el projecte amb referències de cinema conegudes, llegeix [references/guion-referencias-cinematograficas.md](references/guion-referencias-cinematograficas.md).
+- Per analitzar, corregir o reescriure un guió, llegeix [references/guion-revision.md](references/guion-revision.md).
 - Per crear o consolidar una cara, un cos, un personatge o vestuari, llegeix [references/prompts-personajes.md](references/prompts-personajes.md) i utilitza únicament el bloc corresponent.
+- Per crear o consolidar un objecte, arma, eina, accessori o element recurrent, llegeix [references/blueprint-objetos.md](references/blueprint-objetos.md).
 - Per crear un escenari, integrar-hi el personatge, preparar un storyboard 3x3 o reconstruir-ne un fotograma, llegeix [references/prompts-personajes.md](references/prompts-personajes.md).
 - Per animar una imatge o preparar un vídeo a Grok, FlexClip o una altra eina, llegeix [references/video-timeline.md](references/video-timeline.md).
+- Per redactar un prompt de vídeo avançat amb acció, càmera, so i timeline, llegeix [references/video-profesional.md](references/video-profesional.md).
+- Per escollir plans, angles, altura de càmera, focal o moviment, llegeix [references/direccion-cinematografica.md](references/direccion-cinematografica.md).
+- Per definir il·luminació, atmosfera, partícules, color, so, música, filtres, renderitzat o bucles, llegeix [references/luz-sonido-y-acabado.md](references/luz-sonido-y-acabado.md).
+- Per dirigir emoció, interpretació, ritme, localització, objectes o multituds, llegeix [references/narrativa-y-puesta-en-escena.md](references/narrativa-y-puesta-en-escena.md).
+- Per crear blueprints i escenes amb estètica anime moderna, llegeix [references/anime-moderno.md](references/anime-moderno.md).
+- Per desglossar un guió, crear una llista de plans, preparar una bíblia de continuïtat, ordenar una seqüència, diagnosticar un resultat o planificar la producció, llegeix [references/produccion-y-control.md](references/produccion-y-control.md).
+- Per convertir un guió en imatges de referència, decidir quines calen i crear un storyboard quan una escena contingui diversos plans, llegeix [references/guion-a-imagenes.md](references/guion-a-imagenes.md).
+- Per preparar referències, configurar una generació, mantenir continuïtat entre clips, dirigir interaccions complexes o controlar crèdits i versions, llegeix [references/referencias-y-continuidad.md](references/referencias-y-continuidad.md).
 
 No enganxis tots els prompts en una sola generació. Tria el flux mínim que resol la petició.
+
+Quan preparis vídeo, no acumulis opcions incompatibles. Escull una intenció narrativa, una acció principal, un sistema de càmera, una il·luminació coherent i només els detalls tècnics que el generador pugui interpretar.
+
+## Experiència de treball amb l'usuari
+
+- El coneixement professional pertany a la skill: l'usuari no necessita dominar terminologia de guió, fotografia o producció.
+- Accepta idees incompletes i decideix amb criteri allò que no requereixi una preferència personal.
+- Fes una sola pregunta breu quan una elecció personal pugui canviar substancialment el resultat. Si l'usuari diu «decideix tu», continua sense demanar confirmació.
+- Conserva les decisions confirmades i no repeteixis preguntes.
+- Quan una referència cinematogràfica pugui ajudar, pregunta opcionalment si l'usuari vol algun estil o ofereix alguns exemples coneguts amb les seves pel·lícules perquè pugui orientar-se. Si no en tria cap, escull tu els trets narratius adequats.
+- Utilitza les referències per traduir sensacions a estructura, ritme, tensió, diàleg, punt de vista i atmosfera. No copiïs trames, escenes, frases, personatges ni una veu autoral recognoscible.
+- No afegeixis càmeres, lents, storyboards o prompts audiovisuals a un guió si no s'han demanat.
+- Quan el treball sigui llarg, acaba cada fase amb un resum compacte de decisions confirmades i un únic següent pas útil.
+
+## Elecció abans de generar
+
+Quan l'usuari demani un blueprint, una fitxa tècnica de personatge o un blueprint d'objecte, pregunta abans què vol rebre:
+
+1. només el prompt;
+2. només la imatge;
+3. el prompt i la imatge.
+
+No generis cap imatge fins que l'usuari triï una opció que la inclogui. Si demana informació sobre els tipus disponibles, explica'ls breument i ofereix mostrar els exemples ja creats; mostrar aquests exemples no requereix una nova generació.
+
+Si l'usuari no indica un estil visual, aplica **realisme cinematogràfic natural**. Adapta la mateixa estructura tècnica si demana anime, animació 3D familiar o qualsevol altra estètica. Si no indica format, utilitza horitzontal 16:9 a 1920 × 1080.
 
 ## Principis obligatoris
 
@@ -22,7 +69,7 @@ No enganxis tots els prompts en una sola generació. Tria el flux mínim que res
 3. Fixa abans de generar la identitat, les marques, la roba, els objectes, la mà que els sosté i l'orientació de l'escenari.
 4. Mantén asimetries humanes subtils i plausibles. Evita pell plàstica, perfecció publicitària, textura artificial i aparença de render.
 5. Si falta informació imprescindible, inventa-la de manera conservadora i converteix-la en continuïtat per als resultats posteriors.
-6. Revisa el resultat abans d'aprovar-lo. Si hi ha un error de lateralitat, identitat, anatomia, vestuari, objectes, escenari o numeració, corregeix-lo sense alterar el que ja és correcte.
+6. Revisa qualsevol prompt o imatge abans d'entregar-lo. Si hi ha un error d'identitat, anatomia, lateralitat, vestuari, color, objectes, escenari, composició o numeració, no el presentis com a correcte.
 
 ## Treball amb imatges
 
@@ -40,9 +87,14 @@ Quan l'usuari escull un número, reconstrueix exclusivament aquell quadre. No el
 
 ## Validació abans d'entregar
 
-Comprova visualment:
+La validació és una porta de qualitat obligatòria.
+
+Abans d'entregar un prompt, comprova que identifica la funció de cada referència, conserva tots els invariants visibles, especifica els colors bloquejats, resol la lateralitat i no conté instruccions contradictòries o buits que puguin redissenyar el personatge.
+
+Abans d'aprovar una imatge, compara-la visualment amb totes les referències, vista per vista i element per element. Comprova:
 
 - mateixa identitat, edat, cos, cabell i roba;
+- mateixos colors de pell, cabell, ulls, peces, materials i accessoris sota una il·luminació comparable;
 - marques i objectes al costat anatòmic i a la mà correcta;
 - mans, dits, braços, cames i peus plausibles;
 - perspectiva, contacte, escala, ombres i direcció de llum coherents;
@@ -50,7 +102,7 @@ Comprova visualment:
 - numeració i selecció correctes en storyboards;
 - absència de text accidental, logotips o marques d'aigua.
 
-No prometis perfecció abans de veure el resultat. Si una limitació del generador impedeix corregir un error després d'intents raonables, explica-la clarament.
+No consideris aprovada una imatge només perquè sigui atractiva. La identitat i la continuïtat del personatge tenen prioritat sobre l'acabat estètic. Si detectes un error, indica'l amb precisió i conserva tot el que ja funciona. No consumeixis una nova generació per corregir-lo sense autorització de l'usuari. Si una limitació del generador impedeix obtenir la coherència necessària, explica-la clarament i no descriguis el resultat com a perfecte.
 
 ## Lliurament
 

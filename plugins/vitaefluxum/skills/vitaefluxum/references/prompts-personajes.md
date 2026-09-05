@@ -36,13 +36,15 @@ La primera generación se considera un borrador interno, no un resultado final. 
 3. lateralidad anatómica correcta;
 4. tatuajes, cicatrices, lunares y marcas en el lado exacto;
 5. armas, herramientas y objetos en la mano y lado asignados;
-6. vestuario, correas, bolsillos, fundas, accesorios, materiales y desgaste sin cambios;
+6. vestuario, correas, bolsillos, fundas, accesorios, materiales, desgaste y colores sin cambios;
 7. manos, dedos, brazos, piernas y pies anatómicamente válidos;
 8. número, orden y orientación correctos de las vistas o paneles;
 9. escenario, iluminación, perspectiva y elementos permanentes coherentes;
 10. ausencia de duplicaciones, desapariciones, reflejos horizontales o intercambios accidentales.
 
-Si falla un solo punto, **no entregar la imagen como resultado final**. Corregir el elemento afectado, conservar intacto todo lo que ya sea correcto y repetir la revisión completa. Continuar el ciclo generar → revisar → corregir → volver a revisar hasta superar los diez puntos.
+Comparar también los colores del resultado con las referencias bajo una iluminación equivalente: piel, ojos, cabello, prendas, calzado, materiales, objetos y accesorios. No aceptar como coherente un color simplemente parecido si la referencia ya lo define.
+
+Si falla un solo punto, **no aprobar la imagen como resultado final**. Identificar el elemento afectado y conservar intacto todo lo que ya sea correcto. Antes de consumir otra generación, informar al usuario del fallo y obtener autorización para corregirlo, salvo que ya haya autorizado expresamente un proceso iterativo. Después de la corrección, repetir la revisión completa.
 
 Entregar la imagen únicamente cuando sea coherente. Si después de varios intentos no puede corregirse sin provocar nuevos errores, explicar qué incoherencia persiste y no presentarla como versión aprobada.
 
@@ -53,6 +55,19 @@ Si una imagen aprobada ya muestra el rostro, cuerpo, cabello, ropa, calzado, acc
 Inventar únicamente la información que no aparece en las referencias y que sea imprescindible para completar el resultado. Toda invención debe ser conservadora, compatible con lo visible y mantenerse después como parte de la continuidad.
 
 En particular, un blueprint de vestuario creado a partir de un personaje existente debe reproducir la ropa que lleva ese personaje. Solo diseñar ropa nueva cuando el usuario lo solicite expresamente.
+
+---
+
+## EJEMPLOS VISUALES DISPONIBLES
+
+Estos archivos ya forman parte de VitaeFluxum y pueden mostrarse cuando el usuario quiera comprender la diferencia entre las opciones. Mostrarlos no implica generar una imagen nueva.
+
+- **Blueprint de rostro:** hombros y cabeza en cuatro vistas limpias sobre fondo gris claro. Archivo: [ejemplo de rostro](../../../assets/exemple-blueprint-rostre-1920x1080.png).
+- **Blueprint de cuerpo y vestuario:** cuerpo sin cabeza en varias vistas, útil para fijar estructura corporal, piel visible, tatuajes, ropa, calzado y materiales. Archivo: [ejemplo de cuerpo y vestuario](../../../assets/exemple-blueprint-cos-vestuari-1920x1080.png).
+- **Blueprint de personaje completo:** identidad, cuerpo y vestuario juntos en una hoja de continuidad. Archivo: [ejemplo de personaje completo](../../../assets/exemple-blueprint-personatge-complet-1920x1080.png).
+- **Ficha maestra de personaje:** rostro ampliado en cuatro vistas y cuerpo/vestuario desde varios ángulos. Archivo: [ejemplo de ficha maestra](../../../assets/exemple-fitxa-mestra-personatge-1920x1080.png).
+
+No generes automáticamente ninguno de estos blueprints al enseñarlos. Después de mostrarlos, pregunta cuál necesita y si quiere solo el prompt, solo la imagen o ambos.
 
 ---
 
