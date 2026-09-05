@@ -19,7 +19,7 @@ No presentes muchas rutas alternativas a la vez. Conserva una lista interna de e
 
 ### 1. Guion
 
-Cuando el genero este definido, ofrece escoger una pelicula conocida de ese genero como referencia o dejar que VitaeFluxum decida, siguiendo `guion-referencias-cinematograficas.md`. Desarrolla y revisa la historia hasta que el usuario la apruebe. Al finalizar, explica que el siguiente paso recomendado es realizar el desglose y entrar en el apartado de blueprints.
+Cuando el genero y la premisa esten definidos, detente obligatoriamente antes de escribir y pregunta si quiere escoger una pelicula conocida de ese genero como referencia o dejar que VitaeFluxum decida, siguiendo `guion-referencias-cinematograficas.md`. No redactes la sinopsis, la escaleta ni el guion hasta recibir la respuesta. Después desarrolla y revisa la historia hasta que el usuario la apruebe. Al finalizar, explica que el siguiente paso recomendado es realizar el desglose y entrar en el apartado de blueprints.
 
 Transición orientativa: «El guion ya está definido. Ahora conviene entrar en el apartado de blueprints para fijar los personajes y los objetos importantes antes de crear las escenas.»
 
