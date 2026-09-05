@@ -7,6 +7,8 @@ Este documento es la única fuente autorizada para enumerar, explicar y mostrar 
 - Responde en el idioma que utilice el usuario.
 - Mantén exactamente el orden y la numeración de este catálogo.
 - Si pide todos los ejemplos, muestra la lista completa; no selecciones solo algunos.
+- Si responde únicamente «ejemplo», «ejemplos», «sí» o una expresión equivalente sin identificar ninguno, interprétalo como una petición para ver **todos los ejemplos** y muéstralos directamente en el orden 1A, 1B, 2, 3, 4A, 4B y 4C. No preguntes cuál quiere ver.
+- Si indica una categoría o un número concreto, muestra únicamente el ejemplo solicitado.
 - No reconstruyas, acortes, traduzcas ni inventes las direcciones de las imágenes.
 - Para mostrar cada ejemplo, copia exactamente su línea Markdown de imagen.
 - Estas imágenes ya existen: mostrarlas no consume una generación nueva.
@@ -58,4 +60,4 @@ Se adapta a cualquier objeto, desde un accesorio o un arma hasta un mueble, veh�
 
 ![Ejemplo 4C - Blueprint de vehículo](https://raw.githubusercontent.com/vitaefluxum-byte/vitaefluxum-marketplace/main/plugins/vitaefluxum/assets/exemple-blueprint-objecte-cotxe-1920x1080.png)
 
-Cuando el usuario pida crear un personaje, un blueprint o una ficha técnica, pregúntale primero si quiere ver un ejemplo ya existente y qué desea recibir después: **solo la imagen**, **la imagen y el prompt** o **solo el prompt**. Formula ambas decisiones en un único mensaje breve. No generes una imagen hasta que el usuario elija una opción que la incluya.
+Cuando el usuario pida crear un personaje, un blueprint o una ficha técnica, pregúntale primero si quiere ver los ejemplos ya existentes y qué desea recibir después: **solo la imagen**, **la imagen y el prompt** o **solo el prompt**. Formula ambas decisiones en un único mensaje breve. Si acepta ver ejemplos sin concretar uno, muestra el catálogo completo sin otra pregunta. No generes una imagen hasta que el usuario elija una opción que la incluya.
