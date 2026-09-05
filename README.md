@@ -25,11 +25,13 @@ Puede trabajar desde una idea, un guion, una descripción o una o varias imágen
 
 ### Personajes y blueprints
 
-- Blueprint de identidad facial.
-- Blueprint de cuerpo y vestuario sin cabeza, útil para fijar anatomía, piel visible, tatuajes, ropa y materiales.
-- Blueprint de personaje completo.
-- Ficha maestra de personaje.
-- Blueprint de cualquier objeto, desde un accesorio o arma hasta un mueble, vehículo o máquina.
+- **1A — Blueprint de identidad facial.**
+- **1B — Blueprint de cuerpo y vestuario sin cabeza**, útil para fijar anatomía, piel visible, tatuajes, ropa y materiales.
+- **2 — Blueprint de personaje completo.**
+- **3 — Ficha maestra de personaje.**
+- **4 — Blueprint de cualquier objeto**, desde un accesorio o arma hasta un mueble, vehículo o máquina.
+
+Las opciones **1A y 1B son complementarias**: la primera fija la identidad facial y la segunda fija el cuerpo, la piel visible, las marcas y el vestuario.
 
 Los blueprints pueden crearse desde cero, con una referencia o combinando varias. Si hay una imagen para el rostro y otra para el cuerpo o el vestuario, VitaeFluxum asigna claramente la función de cada una.
 
@@ -61,11 +63,11 @@ La misma estructura puede adaptarse a anime, animación 3D familiar, ilustració
 
 ### Personajes
 
-| Rostro | Cuerpo y vestuario |
+| 1A — Rostro | 1B — Cuerpo y vestuario |
 |---|---|
 | ![Blueprint de rostro](plugins/vitaefluxum/assets/exemple-blueprint-rostre-1920x1080.png) | ![Blueprint de cuerpo y vestuario](plugins/vitaefluxum/assets/exemple-blueprint-cos-vestuari-1920x1080.png) |
 
-| Personaje completo | Ficha maestra |
+| 2 — Personaje completo | 3 — Ficha maestra |
 |---|---|
 | ![Blueprint de personaje completo](plugins/vitaefluxum/assets/exemple-blueprint-personatge-complet-1920x1080.png) | ![Ficha maestra de personaje](plugins/vitaefluxum/assets/exemple-fitxa-mestra-personatge-1920x1080.png) |
 
