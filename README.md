@@ -14,6 +14,8 @@
 
 Puede trabajar desde una idea, un guion, una descripción o una o varias imágenes de referencia. Su prioridad es conservar la identidad, el vestuario, los colores, la anatomía, la lateralidad, los objetos y la continuidad entre planos.
 
+La colaboradora creativa del complemento se llama **Lia**. El paquete incluye su imagen oficial como recurso opcional, pero solo debe mostrarse o utilizarse cuando el usuario la solicite expresamente.
+
 ## Qué puedes hacer
 
 ### Guion y narrativa
