@@ -14,13 +14,32 @@ El resultado puede entregarse como:
 
 Por defecto, utiliza páginas verticales. Emplea formato horizontal únicamente cuando el usuario pida una tira, una doble página o una composición panorámica.
 
+## Puerta obligatoria: elegir el estilo antes de empezar
+
+Antes de escribir el guion, crear blueprints, diseñar personajes o generar cualquier imagen, comprueba si el usuario ya ha indicado el estilo visual del cómic.
+
+Si únicamente pide un «cómic», una «historieta» o una «novela gráfica» sin concretar el estilo, detente y pregunta:
+
+> Antes de empezar, ¿qué estilo de cómic quieres? Puedes elegir manga, cómic occidental, franco-belga, superhéroes, humor, terror u otro. Si no lo tienes claro, puedo enseñarte algunos ejemplos o dejar que VitaeFluxum decida.
+
+Esta pregunta es obligatoria porque el estilo determina el diseño de personajes, el acabado del dibujo, el uso del color, la composición de las páginas, las formas de los bocadillos y el tratamiento de las onomatopeyas.
+
+- No deduzcas el estilo únicamente por el género de la historia, la época, el vestuario o una imagen adjunta.
+- No generes un blueprint ni una página mientras el estilo siga sin decidirse.
+- Si el usuario ya pide explícitamente «manga», «cómic franco-belga», «superhéroes» u otro estilo reconocible, no repitas la pregunta: confirma brevemente el estilo y continúa.
+- Si el usuario responde «decide tú» o «que decida VitaeFluxum», elige el estilo más adecuado, comunícalo brevemente y continúa sin hacer otra pregunta.
+- Cuando el estilo pueda realizarse en color o en blanco y negro, pregunta o confirma también el acabado antes de generar la primera imagen. En manga, utiliza blanco y negro por defecto salvo que el usuario pida color.
+- Fija la dirección de lectura antes de distribuir las páginas. Para manga destinado a público hispanohablante utiliza de izquierda a derecha, salvo que el usuario pida lectura japonesa.
+
+Una vez aprobado o decidido el estilo, conviértelo en una regla de continuidad y mantenlo en todos los blueprints, viñetas, páginas, bocadillos, efectos sonoros y entregables posteriores.
+
 ## Flujo guiado
 
 Cuando el usuario quiera desarrollar una obra completa, avanza en este orden:
 
 ### 1. Guion
 
-Define género, premisa, protagonistas, conflicto, estructura, escenas, diálogos y final. Adapta la extensión al número aproximado de páginas. No añadas instrucciones de cámara o vídeo que no sean necesarias para la narración gráfica.
+Empieza esta fase únicamente después de fijar el estilo visual, el acabado en color o blanco y negro y la dirección de lectura. Después define género, premisa, protagonistas, conflicto, estructura, escenas, diálogos y final. Adapta la extensión al número aproximado de páginas. No añadas instrucciones de cámara o vídeo que no sean necesarias para la narración gráfica.
 
 Al aprobar el guion, anuncia que el siguiente paso es fijar los personajes y los elementos recurrentes.
 
