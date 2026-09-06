@@ -87,6 +87,25 @@ Comprueba, en este orden:
 
 Compara todas las vistas de una hoja entre sí y con las referencias aprobadas. Un cambio de tono de piel, cabello, ojos, prenda, calzado, material o accesorio es un error de continuidad aunque el resultado sea visualmente atractivo. Separa los errores críticos de los detalles estéticos. Propón corregir primero lo que impediría utilizar la imagen como referencia o primer fotograma.
 
+### Protocolo obligatorio para verificar una mano
+
+No determines la mano por el lado izquierdo o derecho de la pantalla. Sigue este protocolo cuando un personaje sostenga, toque, abra, señale, golpee o entregue un objeto:
+
+1. determina la orientación corporal: frente, espalda, perfil o tres cuartos;
+2. identifica el hombro anatómico;
+3. sigue el brazo desde el hombro hasta la mano, sin saltar directamente al objeto;
+4. comprueba qué dedos, palma o agarre entran en contacto con el objeto;
+5. compara la mano con la biblia de continuidad, las marcas asimétricas y el plano anterior;
+6. indica tanto el lado anatómico como su posición visible en la imagen cuando pueda haber confusión.
+
+Ejemplo correcto: «La mano izquierda anatómica toca la puerta; aparece a la derecha de la imagen porque el personaje está mirando de frente».
+
+Si el recorrido hombro-brazo-mano no es visible o la imagen contiene un reflejo, una torsión confusa, una deformación o un encuadre que impide confirmarlo, clasifica el resultado como **no verificable**. No apruebes ni rechaces la lateralidad basándote en una conjetura.
+
+### Verificación de la imagen base del escenario
+
+Cuando se revise una imagen denominada **base del escenario**, confirma también que no aparezca ningún personaje, figurante, silueta humana ni objeto destinado a ser llevado por un personaje. La base debe fijar exclusivamente la localización, la geografía, los elementos permanentes, la iluminación y la orientación. Los personajes y sus objetos se incorporan durante el storyboard o en una imagen de plano posterior.
+
 ## Diagnóstico de vídeos
 
 Describe el fallo mediante hechos observables, no con etiquetas vagas. Ejemplos: aparece una persona adicional, un objeto cambia de mano, una figura atraviesa a otra, la boca equivocada pronuncia una frase o el fondo cambia de orientación.

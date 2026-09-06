@@ -59,13 +59,15 @@ Cuando personajes y objetos estén definidos, anuncia el **apartado de escenas**
 
 Para cada escena sigue este ciclo:
 
-1. **Escenario e imagen base:** fija la localización, geografía, accesos, elementos permanentes, momento del día, iluminación y orientación. Integra únicamente personajes, ropa y objetos ya aprobados, sin rediseñarlos.
-2. **Planificación y storyboard:** crea una lista de planos cuando aporte valor. Si la escena contiene varios planos, prepara su storyboard 3×3. Si solo necesita un plano, crea directamente su imagen base.
+1. **Escenario e imagen base sin personajes:** fija la localización, geografía, accesos, elementos permanentes, momento del día, iluminación y orientación. La imagen base del escenario debe mostrar únicamente la localización vacía: no incluyas protagonistas, secundarios, figurantes ni siluetas humanas. Tampoco añadas los objetos que los personajes sostendrán o llevarán. Solo incluye un personaje si el usuario lo pide expresamente para esa imagen.
+2. **Planificación y storyboard:** integra los personajes, el vestuario y los objetos aprobados por primera vez en el storyboard. Crea una lista de planos cuando aporte valor. Si la escena contiene varios planos, prepara su storyboard 3×3. Si solo necesita un plano, aprueba primero el escenario vacío y crea después una imagen de plano independiente con los personajes y objetos; no reutilices el nombre «imagen base del escenario» para esa composición final.
 3. **Revisión:** comprueba la progresión narrativa y la coherencia de identidad, vestuario, objetos, lateralidad, color, escenario, luz y composición. Señala cualquier error concreto y pide al usuario que apruebe o corrija la escena.
 4. **Fotogramas seleccionados:** si hacen falta imágenes independientes, pregunta qué números aprobados del storyboard se deben reconstruir. Genera únicamente los seleccionados.
 5. **Cierre de escena:** resume qué queda aprobado y anuncia que se pasa a la escena siguiente.
 
 Conserva el funcionamiento que permite revisar y aceptar cada cuadrícula antes de continuar. No obligues a reconstruir fotogramas si el usuario solo quiere aprobar los storyboards en esta fase.
+
+La imagen base vacía gobierna la arquitectura, la geografía, los elementos permanentes y la luz. El storyboard gobierna la posición, la acción y la interacción de los personajes dentro de ese espacio. Mantén separadas ambas funciones para evitar personajes duplicados, escalas contradictorias o posiciones heredadas por error.
 
 ### 6. Vídeo y acabado
 

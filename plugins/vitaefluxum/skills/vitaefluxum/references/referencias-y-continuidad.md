@@ -70,6 +70,31 @@ Para caminar o correr, fija dirección, ritmo, contacto de pies y seguimiento de
 
 Evita acumular acciones complejas simultáneas. Si existen cruces, multitudes, combate, vehículos o contacto entre cuerpos, prioriza trayectorias separadas y legibles.
 
+## Lateralidad anatómica y verificación de las manos
+
+«Derecha» e «izquierda» se refieren siempre al lado anatómico del personaje, nunca al lado de la imagen ni al punto de vista del espectador. En prompts y revisiones utiliza las expresiones **mano derecha anatómica del personaje** y **mano izquierda anatómica del personaje** cuando exista riesgo de confusión.
+
+Antes de afirmar qué mano realiza una acción:
+
+1. identifica si el personaje está de frente, de espaldas, de perfil o en tres cuartos;
+2. localiza el hombro correspondiente;
+3. sigue visualmente el brazo completo desde el hombro hasta el codo, la muñeca y la mano;
+4. comprueba el agarre o el punto de contacto con el objeto;
+5. contrasta el resultado con la referencia aprobada y con el estado del plano anterior.
+
+Reglas de orientación:
+
+- Si el personaje mira de frente, su mano derecha suele aparecer en el lado izquierdo de la imagen y su mano izquierda en el lado derecho.
+- Si está de espaldas, su mano derecha suele aparecer en el lado derecho de la imagen y su mano izquierda en el izquierdo.
+- En perfil, tres cuartos, reflejos, brazos cruzados, torsiones o encuadres parciales, no deduzcas la mano por su posición en pantalla: sigue la unión anatómica desde el hombro.
+- Una imagen reflejada o volteada puede invertir la lectura aparente. Comprueba marcas corporales, cierres, bolsillos, accesorios u otros rasgos asimétricos antes de decidir.
+
+Al redactar una verificación, explica brevemente el razonamiento visual cuando la lateralidad sea importante. Ejemplo: «El teléfono está en la mano derecha anatómica del personaje, situada a la izquierda de la imagen porque está mirando de frente».
+
+Si el hombro, el brazo o la mano están ocultos, cortados, deformados o no se pueden seguir con seguridad, responde **«no se puede verificar con seguridad»** y solicita una vista más clara o una referencia adicional. No conviertas una suposición en una verificación.
+
+Para reducir errores entre generaciones, fija en la biblia de continuidad qué objeto lleva cada mano y repite esa asignación en cada prompt posterior. Cuando sea viable, conserva también un rasgo asimétrico visible —pulsera, reloj, cicatriz o manga— que ayude a reconocer el lado sin rediseñar al personaje.
+
 ## Varios personajes
 
 Asigna a cada personaje:
