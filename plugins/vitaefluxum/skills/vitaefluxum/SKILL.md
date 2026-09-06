@@ -18,6 +18,7 @@ Ajuda a desenvolupar projectes audiovisuals des de la idea i el guió fins a les
 ## Selecció del flux
 
 - Quan l'usuari vulgui desenvolupar un projecte complet, continuar després d'un guió o demani que el guiïs pel procés, llegeix [references/flujo-proyecto.md](references/flujo-proyecto.md) i condueix-lo fase per fase.
+- Quan l'usuari demani explícitament crear un **còmic, manga, historieta o novel·la gràfica**, llegeix [references/comics-y-manga.md](references/comics-y-manga.md). No presentis ni anunciïs aquesta funció si l'usuari no l'ha demanada.
 - Quan l'usuari pregunti quins blueprints hi ha, quina diferència tenen o demani veure'n els exemples, llegeix [references/catalogo-blueprints.md](references/catalogo-blueprints.md) i utilitza'l com a única font per a la resposta.
 - Per idear o desenvolupar una història, llegeix [references/guion-fundamentos.md](references/guion-fundamentos.md).
 - Per aplicar o combinar gèneres, llegeix [references/guion-generos.md](references/guion-generos.md).
